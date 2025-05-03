@@ -1,0 +1,3 @@
+/Users/louka/CLionProjects/ing1-allegro-2025/cmake-build-debug/CMakeFiles/ing1_allegro_2025.dir
+/Users/louka/CLionProjects/ing1-allegro-2025/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/louka/CLionProjects/ing1-allegro-2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir
