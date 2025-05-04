@@ -8,4 +8,5 @@ add_executable(ing1_allegro_2025 main.c
         menu.c
         menu.h
         menu.c
+        menu.h
         menu.h)
