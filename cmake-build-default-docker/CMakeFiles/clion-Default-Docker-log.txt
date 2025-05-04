@@ -1,0 +1,6 @@
+/usr/bin/cmake -G "CodeBlocks - Unix Makefiles" -S /tmp/ing1-allegro-2025 -B /tmp/ing1-allegro-2025/cmake-build-default-docker
+-- Configuring incomplete, errors occurred!
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.30 or higher is required.  You are running version 3.18.4
+
+
