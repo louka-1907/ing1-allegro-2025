@@ -1,8 +1,6 @@
-//
-// Created by DELL on 04/05/2025.
-//
-
 #ifndef MENU_H
 #define MENU_H
+
+int afficher_menu();
 
 #endif //MENU_H
