@@ -12,6 +12,8 @@ int main(int argc, char *argv[])
 
     allegro_exit();
 
+    allegro_exit()
+
 
 
 
