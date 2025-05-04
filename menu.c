@@ -16,6 +16,7 @@ int afficher_menu() {
     BITMAP *jouer = load_bitmap("jouer.bmp", NULL);
     BITMAP *jouer_selec = load_bitmap("jouer_selec.bmp", NULL);
     BITMAP *quitter = load_bitmap("quitter.bmp", NULL);
+    BITMAP *quitter_selec = load_bitmap("quitter_selec.bmp", NULL);
 
 
     if (!fond || !jouer || !jouer_selec || !quitter || !quitter_selec) {
