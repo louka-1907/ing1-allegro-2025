@@ -1,7 +1,15 @@
 #include <stdio.h>
+#include <allegro.h>
 
-int main(void) {
-  printf("Hello World\n");
+#include "initialisation_allegro.h"
+#include "menu.h"
+
+int main(int argc, char *argv[])
+{
+    initialisation_allegro();
+
+    afficher_menu();
+
+    allegro_exit();
     return 0;
-
-}
+}END_OF_MAIN();
