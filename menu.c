@@ -15,6 +15,7 @@ int afficher_menu() {
     BITMAP *fond = load_bitmap("fond_menu.bmp", NULL);
     BITMAP *jouer = load_bitmap("jouer.bmp", NULL);
     BITMAP *jouer_selec = load_bitmap("jouer_selec.bmp", NULL);
+    BITMAP *quitter = load_bitmap("quitter.bmp", NULL);
 
 
 
