@@ -10,6 +10,8 @@ int main(int argc, char *argv[])
 
     afficher_menu();
     allegro_exit()
+    allegro_exit()
+
 
 
 
